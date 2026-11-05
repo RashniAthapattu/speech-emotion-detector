@@ -1,0 +1,6 @@
+{
+  "model": "microsoft/wavlm-base-plus",
+  "layer": 6,
+  "sample_rate": 16000,
+  "max_seconds": 6
+}
